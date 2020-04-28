@@ -6,4 +6,6 @@
 
 ### 2、git add \<fileName> (将指定文件从工作区添加至暂存区，一般常用 git add . 英文点（.）代表所有改动文件)
 
-### 3、git commit -m \<message> （将暂存区的所有文件提交至本地仓库）
+### 3、git commit -m \<message> （将暂存区的所有变更文件提交至本地仓库）
+
+### 4、git push (将本地仓库变更文件提交至远程仓库)
